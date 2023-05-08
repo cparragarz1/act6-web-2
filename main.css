@@ -1,0 +1,16 @@
+.main-form {
+    padding-top: 30px;
+    width: 450px;
+    margin: auto;
+}
+
+.main-form button {
+    margin-top: 10px;
+}
+
+.title {
+    text-align: center;
+}
+body{
+    background-color: rgb(137, 192, 192);
+}
